@@ -51,7 +51,7 @@ Warden connects to your existing scanners, merges their output into one deduplic
 Requires [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/).
 
 ```bash
-git clone https://github.com/stv3/warden.git
+git clone https://github.com/sohanreddyk/warden.git
 cd warden
 
 # 1. Configure environment
